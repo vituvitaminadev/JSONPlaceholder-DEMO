@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.menu{
+  margin: 425px auto;
+  width: 800px;
+  margin-left: 32%;
+}
+
+.links{
+  color: black;
+  background-color: white;
+  font-size: 24pt;
+  text-decoration: none;
+  margin-right: 10%;
+  padding: 2px 6px 2px 6px;
+  border-radius: 2px;
+}
+
+.links:hover{
+  color: white;
+  background-color: black;
+}
+
+h3{
+  color: white;
+}
+
+.menuprincipal{
+  color: black;
+  background-color: white;
+  font-size: 15pt;
+  padding: 2px 6px 2px 6px;
+  border-radius: 2px;
+}
+
+.menuprincipal:hover{
+  color: white;
+  background-color: black;
+}
